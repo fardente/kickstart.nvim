@@ -316,6 +316,7 @@ require('lazy').setup({
           F11 = '<F11>',
           F12 = '<F12>',
         },
+      },
 
       -- Document existing key chains
       spec = {
